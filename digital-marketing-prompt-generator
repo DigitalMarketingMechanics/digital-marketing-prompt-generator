@@ -1,1 +1,19 @@
-
+digital-marketing-prompt-generator/
+│
+├── public/
+│   └── index.html
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   └── PromptCard.jsx
+│   ├── data/
+│   │   └── marketingPrompts.js
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── .gitignore
+├── README.md
+├── package.json
+├── tailwind.config.js
+└── vite.config.js
