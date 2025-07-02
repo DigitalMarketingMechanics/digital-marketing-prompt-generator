@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState } from 'react';
 import { marketingPrompts } from '../marketingPrompts';
-import PromptCard from '../PromptCard';
+import PromptCard from './components/PromptCard';
 
 export default function App() {
   const [selected, setSelected] = useState(null);
